@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atulsharma101
 
-- 🌱 I’m currently learning ...Node.js,Express.js
+- 🌱 I’m currently learning ...Backend (MERN)
 
 
 <!---
